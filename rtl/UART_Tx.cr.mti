@@ -1,0 +1,50 @@
+{D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Transmitter_FSM
+
+Top level modules:
+	Transmitter_FSM
+
+} {} {}} {D:/Hardware/Digital Design/Projects/UART/rtl/Parity_Generator_Tx.v} {1 {vlog -work work {D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parity_Generator_Tx
+
+Top level modules:
+	Parity_Generator_Tx
+
+} {} {}} {D:/Hardware/Digital Design/Projects/UART/rtl/Parity_Generator_Tx_tb.v} {1 {vlog -work work {D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parity_Generator_Tx_tb
+
+Top level modules:
+	Parity_Generator_Tx_tb
+
+} {} {}} {D:/Hardware/Digital Design/Projects/UART/rtl/PISO_Register.v} {1 {vlog -work work {D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PISO_Register
+
+Top level modules:
+	PISO_Register
+
+} {} {}} {D:/Hardware/Digital Design/Projects/UART/rtl/PISO_Register_tb.v} {1 {vlog -work work {D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PISO_Register_tb
+
+Top level modules:
+	PISO_Register_tb
+
+} {} {}} {D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Baud_Rate_Generator_Tx
+
+Top level modules:
+	Baud_Rate_Generator_Tx
+
+} {} {}} {D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx_tb.v} {1 {vlog -work work {D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Baud_Rate_Generator_Tx_tb
+
+Top level modules:
+	Baud_Rate_Generator_Tx_tb
+
+} {} {}}

@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vBaud_Rate_Generator_Tx
+Z1 !s100 Y?HzCdCiMQMKiRm?WSMjE1
+Z2 IlfLjdl4:NG5]Q7Q1P2]g41
+Z3 VQ0MfC6f_YoJjjkacceIIY2
+Z4 dD:\Hardware\Digital Design\Projects\UART\rtl
+Z5 w1770814710
+Z6 8D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx.v
+Z7 FD:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx.v|
+Z10 o-work work -O0
+Z11 n@baud_@rate_@generator_@tx
+Z12 !s108 1771236788.873000
+Z13 !s107 D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBaud_Rate_Generator_Tx_tb
+Z14 !s100 X:g``<[oYl7lO;7?_M=e33
+Z15 Ic74eQP^UcEJh;Lka5=U6n2
+Z16 VY^7J`Sj[8fEOT8UgR7[3l2
+R4
+Z17 w1770814712
+Z18 8D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx_tb.v
+Z19 FD:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx_tb.v
+L0 3
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx_tb.v|
+R10
+Z21 n@baud_@rate_@generator_@tx_tb
+Z22 !s108 1771236789.000000
+Z23 !s107 D:/Hardware/Digital Design/Projects/UART/rtl/Baud_Rate_Generator_Tx_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParity_Generator_Tx
+Z24 !s100 <hI;b<SzlHZbT=J<ilMbf0
+Z25 IfeLLSfW@3C5jB4GQY`ZaB0
+Z26 VUF>F:Cldc:dZZ;GJ;71i@1
+R4
+Z27 w1771169572
+Z28 8D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx.v
+Z29 FD:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx.v|
+R10
+Z31 n@parity_@generator_@tx
+Z32 !s108 1771236789.109000
+Z33 !s107 D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParity_Generator_Tx_tb
+Z34 !s100 jd?[><Rj9bfcNl@6UlXZD2
+Z35 IoHBf6D21VT9l`=U7Z?bl[2
+Z36 Vfz4`]Djo?1UFJ[Kj<J9fS0
+R4
+Z37 w1771169378
+Z38 8D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx_tb.v
+Z39 FD:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx_tb.v
+L0 3
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx_tb.v|
+R10
+Z41 n@parity_@generator_@tx_tb
+Z42 !s108 1771236789.205000
+Z43 !s107 D:\Hardware\Digital Design\Projects\UART\rtl\Parity_Generator_Tx_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPISO_Register
+Z44 !s100 XCIeM>7i=ZYf2O^>Fi]UB0
+Z45 Ih5i7e@CNmON:fQl05d63;3
+Z46 VC]HITzbHanzFZmJ<6AfZD1
+R4
+Z47 w1771168614
+Z48 8D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register.v
+Z49 FD:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register.v|
+R10
+Z51 n@p@i@s@o_@register
+Z52 !s108 1771236789.318000
+Z53 !s107 D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPISO_Register_tb
+Z54 !s100 1:jD0417moeWN<;4a2DMW1
+Z55 IRF8bTP5eT3f;NW1d<me?z3
+Z56 V@oKE`SMJ1^jQfKfCWz8Og1
+R4
+Z57 w1771168438
+Z58 8D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register_tb.v
+Z59 FD:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register_tb.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register_tb.v|
+R10
+Z61 n@p@i@s@o_@register_tb
+Z62 !s108 1771236789.492000
+Z63 !s107 D:\Hardware\Digital Design\Projects\UART\rtl\PISO_Register_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTransmitter_FSM
+Z64 !s100 kf@jB]W]heeSc12@ZGS?K2
+Z65 IQa2M;3AkjoFMDFJdk=[__2
+Z66 VajK20GU_X]@fDnjdZ^TDz1
+R4
+Z67 w1771236732
+Z68 8D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM.v
+Z69 FD:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM.v|
+R10
+Z71 n@transmitter_@f@s@m
+!i10b 1
+!s85 0
+Z72 !s108 1771236789.585000
+Z73 !s107 D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM.v|
+!s101 -O0
+vTransmitter_FSM_tb
+!i10b 1
+!s100 jOQ55`3ho1DGA57blX7Ia2
+IQldKAD0VCnYVCZzBT7jaN2
+Z74 VNf9]da;AV7IMcjKER4L@i1
+R4
+w1771236784
+Z75 8D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM_tb.v
+Z76 FD:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1771236789.717000
+!s107 D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM_tb.v|
+Z77 !s90 -reportprogress|300|-work|work|D:/Hardware/Digital Design/Projects/UART/rtl/Transmitter_FSM_tb.v|
+!s101 -O0
+R10
+Z78 n@transmitter_@f@s@m_tb
